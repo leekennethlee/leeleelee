@@ -1,0 +1,21 @@
+h1 {
+    font-family: Sans-Serif;
+    color: #4063ff;
+    opacity: .5
+    font-size: 25px;
+    text-decoration-line: underline;
+   }
+h2 {
+    font-family: Arial;
+    color: #4063ff;    
+    }
+body {
+    background-color: #AEC6CF;
+    }
+    
+img {
+    border-radius: 20px;
+    }
+a {
+    decoration: none;
+}    
